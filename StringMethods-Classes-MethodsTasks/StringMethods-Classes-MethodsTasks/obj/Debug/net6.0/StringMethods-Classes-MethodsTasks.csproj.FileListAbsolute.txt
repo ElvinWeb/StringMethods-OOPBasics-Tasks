@@ -1,0 +1,14 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\bin\Debug\net6.0\StringMethods-Classes-MethodsTasks.exe
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\bin\Debug\net6.0\StringMethods-Classes-MethodsTasks.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\bin\Debug\net6.0\StringMethods-Classes-MethodsTasks.runtimeconfig.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\bin\Debug\net6.0\StringMethods-Classes-MethodsTasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\bin\Debug\net6.0\StringMethods-Classes-MethodsTasks.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\obj\Debug\net6.0\StringMethods-Classes-MethodsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\obj\Debug\net6.0\StringMethods-Classes-MethodsTasks.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\obj\Debug\net6.0\StringMethods-Classes-MethodsTasks.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\obj\Debug\net6.0\StringMethods-Classes-MethodsTasks.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\obj\Debug\net6.0\StringMethods-Classes-MethodsTasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\obj\Debug\net6.0\refint\StringMethods-Classes-MethodsTasks.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\obj\Debug\net6.0\StringMethods-Classes-MethodsTasks.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\obj\Debug\net6.0\StringMethods-Classes-MethodsTasks.genruntimeconfig.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StringMethods-Classes-MethodsTasks\StringMethods-Classes-MethodsTasks\obj\Debug\net6.0\ref\StringMethods-Classes-MethodsTasks.dll
